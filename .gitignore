@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files
+data/*.tif
+data/*.tiff
+data/*.sbx
+data/*.h5
+results/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
